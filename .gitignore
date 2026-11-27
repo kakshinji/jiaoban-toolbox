@@ -1,0 +1,12 @@
+node_modules/
+*.pptx
+*.docx
+*.xlsx
+*.jpg
+*.jpeg
+*.png
+*.zip
+.workbuddy/
+_照片_*/
+__pycache__/
+.pytest_cache/
